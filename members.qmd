@@ -1,0 +1,73 @@
+---
+title: "Members"
+---
+
+::: {.hero-section}
+::: {.container}
+# Our Community
+
+### Meet the CUCOL Team
+:::
+:::
+
+::: {.content-section}
+::: {.container}
+## Current Committee Members
+
+::: {.member-cards}
+::: {.member-card}
+![Member Photo](/placeholder.svg?height=200&width=200&query=professional headshot placeholder){.member-photo}
+
+### [Member Name]
+**Position: President**
+
+Brief description of the member's background, studies at Cambridge, and role within CUCOL. This could include their academic focus, hometown in Colombia, and contributions to the society.
+:::
+
+::: {.member-card}
+![Member Photo](/placeholder.svg?height=200&width=200&query=professional headshot placeholder){.member-photo}
+
+### [Member Name]
+**Position: Vice President**
+
+Brief description of the member's background, studies at Cambridge, and role within CUCOL. This could include their academic focus, hometown in Colombia, and contributions to the society.
+:::
+
+::: {.member-card}
+![Member Photo](/placeholder.svg?height=200&width=200&query=professional headshot placeholder){.member-photo}
+
+### [Member Name]
+**Position: Treasurer**
+
+Brief description of the member's background, studies at Cambridge, and role within CUCOL. This could include their academic focus, hometown in Colombia, and contributions to the society.
+:::
+
+::: {.member-card}
+![Member Photo](/placeholder.svg?height=200&width=200&query=professional headshot placeholder){.member-photo}
+
+### [Member Name]
+**Position: Secretary**
+
+Brief description of the member's background, studies at Cambridge, and role within CUCOL. This could include their academic focus, hometown in Colombia, and contributions to the society.
+:::
+:::
+
+<div class="flag-accent"></div>
+
+## Join Our Community
+
+Interested in becoming part of CUCOL? We welcome all Cambridge University students, staff, and alumni who are passionate about Colombian culture and community.
+
+### Membership Benefits
+- Access to exclusive cultural events and celebrations
+- Academic support and study groups
+- Professional networking opportunities
+- Leadership development through committee roles
+- Connection with Colombian alumni worldwide
+
+[Become a Member](mailto:membership@cucol.cam.ac.uk){.btn .btn-primary .me-3}
+
+### Questions?
+Email us at membership@cucol.cam.ac.uk or attend one of our weekly coffee sessions every Friday at 4 PM in the MCR.
+:::
+:::

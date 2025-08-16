@@ -1,0 +1,208 @@
+/*-- scss:defaults --*/
+
+// Colombian Flag Colors
+$colombian-yellow: #FCDD09;
+$colombian-blue: #003893;
+$colombian-red: #CE1126;
+
+// Extended Color Palette
+$primary: $colombian-blue;
+$secondary: $colombian-yellow;
+$accent: $colombian-red;
+$light-yellow: #FFF4B3;
+$light-blue: #E6F3FF;
+$light-red: #FFE6E6;
+
+// Typography
+$font-family-sans-serif: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+$headings-font-family: "Playfair Display", Georgia, serif;
+
+// Layout
+$navbar-bg: white;
+$navbar-brand-color: $primary;
+$link-color: $primary;
+$link-hover-color: $accent;
+
+/*-- scss:rules --*/
+
+// Custom navbar styling
+.navbar {
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+  padding: 1rem 0;
+  
+  .navbar-brand img {
+    height: 50px;
+    width: auto;
+  }
+  
+  .navbar-nav .nav-link {
+    font-weight: 500;
+    margin: 0 0.5rem;
+    transition: all 0.3s ease;
+    
+    &:hover {
+      color: $accent !important;
+      transform: translateY(-2px);
+    }
+  }
+}
+
+// Hero section styling
+.hero-section {
+  background: linear-gradient(135deg, $light-yellow 0%, $light-blue 100%);
+  padding: 4rem 0;
+  text-align: center;
+  
+  h1 {
+    color: $primary;
+    font-size: 3.5rem;
+    font-weight: 700;
+    margin-bottom: 1rem;
+  }
+  
+  .lead {
+    color: $primary;
+    font-size: 1.25rem;
+    margin-bottom: 2rem;
+  }
+}
+
+// Section styling
+.content-section {
+  padding: 3rem 0;
+  
+  h2 {
+    color: $primary;
+    border-bottom: 3px solid $secondary;
+    padding-bottom: 0.5rem;
+    margin-bottom: 2rem;
+  }
+}
+
+// Card styling
+.feature-card {
+  background: white;
+  border-radius: 15px;
+  padding: 2rem;
+  box-shadow: 0 5px 20px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease;
+  border-left: 4px solid $secondary;
+  
+  &:hover {
+    transform: translateY(-5px);
+  }
+  
+  h3 {
+    color: $primary;
+    margin-bottom: 1rem;
+  }
+}
+
+// Button styling
+.btn-primary {
+  background-color: $primary;
+  border-color: $primary;
+  padding: 0.75rem 2rem;
+  font-weight: 600;
+  border-radius: 25px;
+  transition: all 0.3s ease;
+  
+  &:hover {
+    background-color: $accent;
+    border-color: $accent;
+    transform: translateY(-2px);
+  }
+}
+
+.btn-outline-primary {
+  color: $primary;
+  border-color: $primary;
+  padding: 0.75rem 2rem;
+  font-weight: 600;
+  border-radius: 25px;
+  
+  &:hover {
+    background-color: $primary;
+    border-color: $primary;
+  }
+}
+
+// Footer styling
+.page-footer {
+  background-color: $primary;
+  color: white;
+  padding: 2rem 0;
+  margin-top: 3rem;
+}
+
+// Member cards styling
+.member-cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 2rem;
+  margin: 2rem 0;
+}
+
+.member-card {
+  background: white;
+  border-radius: 15px;
+  padding: 2rem;
+  box-shadow: 0 5px 20px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease;
+  border-left: 4px solid $secondary;
+  text-align: center;
+  
+  &:hover {
+    transform: translateY(-5px);
+  }
+  
+  .member-photo {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin: 0 auto 1.5rem auto;
+    border: 4px solid $light-yellow;
+  }
+  
+  h3 {
+    color: $primary;
+    margin-bottom: 0.5rem;
+    font-size: 1.5rem;
+  }
+  
+  strong {
+    color: $accent;
+    font-weight: 600;
+    display: block;
+    margin-bottom: 1rem;
+  }
+  
+  p {
+    color: #666;
+    line-height: 1.6;
+  }
+}
+
+// Flag accent styling
+.flag-accent {
+  height: 4px;
+  background: linear-gradient(90deg, $colombian-yellow 33.33%, $colombian-blue 33.33%, $colombian-blue 66.66%, $colombian-red 66.66%);
+  margin: 3rem 0;
+  border-radius: 2px;
+}
+
+// Responsive design
+@media (max-width: 768px) {
+  .hero-section h1 {
+    font-size: 2.5rem;
+  }
+  
+  .navbar-brand img {
+    height: 40px;
+  }
+  
+  .feature-card {
+    margin-bottom: 2rem;
+  }
+}

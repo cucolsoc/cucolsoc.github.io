@@ -1,0 +1,68 @@
+---
+title: ""
+page-layout: full
+---
+
+::: {.hero-section}
+::: {.container}
+# Welcome to CUCOL
+
+### Cambridge University Colombian Society
+
+Connecting Colombian culture with Cambridge excellence since our founding. Join our vibrant community of students, alumni, and friends celebrating Colombian heritage at one of the world's most prestigious universities.
+
+<div class="flag-accent"></div>
+
+[Join Our Community](members.qmd){.btn .btn-primary .me-3}
+[Learn More](about.qmd){.btn .btn-outline-primary}
+:::
+:::
+
+::: {.content-section}
+::: {.container}
+## What We Offer
+
+::: {.row}
+::: {.col-md-4}
+::: {.feature-card}
+### Cultural Events
+Experience authentic Colombian culture through our festivals, food events, and traditional celebrations that bring the warmth of Colombia to Cambridge.
+:::
+:::
+
+::: {.col-md-4}
+::: {.feature-card}
+### Academic Support
+Connect with fellow Colombian students and alumni for academic guidance, career advice, and networking opportunities across all disciplines.
+:::
+:::
+
+::: {.col-md-4}
+::: {.feature-card}
+### Community Building
+Build lasting friendships and professional relationships within our tight-knit community of Colombian students and supporters.
+:::
+:::
+:::
+:::
+:::
+
+::: {.content-section .bg-light}
+::: {.container}
+## Recent Highlights
+
+::: {.row}
+::: {.col-md-6}
+### Independence Day Celebration 2024
+Our annual Colombian Independence Day celebration brought together over 100 members for an evening of traditional music, dance, and authentic Colombian cuisine.
+:::
+
+::: {.col-md-6}
+### Academic Excellence Awards
+Congratulations to our members who received recognition for outstanding academic achievements this term, representing Colombian excellence at Cambridge.
+:::
+:::
+
+[View All News](news.qmd){.btn .btn-primary}
+:::
+:::

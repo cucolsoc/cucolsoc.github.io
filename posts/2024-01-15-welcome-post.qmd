@@ -1,0 +1,25 @@
+---
+title: "Welcome to CUCOL - Cambridge University Colombian Society"
+date: 2024-01-15
+categories: ["announcement", "welcome"]
+description: "Welcome to the official website of the Cambridge University Colombian Society"
+---
+
+# Welcome to CUCOL!
+
+We're excited to launch our new website for the Cambridge University Colombian Society (CUCOL). This platform will serve as a central hub for our community, connecting Colombian students, alumni, and friends at the University of Cambridge.
+
+## What's New
+
+Our new website features:
+
+- **Modern Design**: Beautiful Colombian-themed design with responsive layout
+- **Easy Navigation**: Clear sections for About, Members, News, and Contact
+- **Mobile-Friendly**: Optimized for all devices and screen sizes
+- **Regular Updates**: News and events section for community updates
+
+## Join Our Community
+
+Whether you're a current student, alumni, or simply interested in Colombian culture, we welcome you to be part of our vibrant community. Stay connected with us through our social media channels and upcoming events.
+
+*¡Bienvenidos a CUCOL!*
