@@ -1,0 +1,69 @@
+---
+title: "About CUCOL"
+---
+
+::: {.hero-section}
+::: {.container}
+# About Us
+
+### Celebrating Colombian Heritage at Cambridge University
+:::
+:::
+
+::: {.content-section}
+::: {.container}
+## Our Mission
+
+The Cambridge University Colombian Society (CUCOL) serves as a bridge between Colombian culture and the academic excellence of Cambridge University. We are dedicated to:
+
+- **Preserving and sharing Colombian culture** through events, celebrations, and educational activities
+- **Supporting Colombian students** in their academic and personal journey at Cambridge
+- **Building connections** between current students, alumni, and the broader Colombian community
+- **Promoting cultural exchange** and understanding within the diverse Cambridge community
+
+<div class="flag-accent"></div>
+
+## Our History
+
+Founded by passionate Colombian students who recognized the need for a cultural home away from home, CUCOL has grown into one of Cambridge's most vibrant cultural societies. Our journey began with a small group of students sharing arepas and stories, and has evolved into a comprehensive support network that spans undergraduate, graduate, and alumni communities.
+
+## What Makes Us Special
+
+::: {.row}
+::: {.col-md-6}
+### Cultural Authenticity
+We pride ourselves on maintaining authentic Colombian traditions while adapting to the Cambridge environment. From traditional vallenato music sessions to contemporary Colombian art exhibitions, we celebrate all aspects of our rich cultural heritage.
+:::
+
+::: {.col-md-6}
+### Academic Excellence
+Our members consistently demonstrate the Colombian commitment to education and excellence. We support each other through study groups, mentorship programs, and academic networking events.
+:::
+:::
+
+::: {.row}
+::: {.col-md-6}
+### Inclusive Community
+While rooted in Colombian culture, CUCOL welcomes anyone interested in learning about Colombia, whether they have Colombian heritage or simply appreciate our culture and values.
+:::
+
+::: {.col-md-6}
+### Global Network
+Our alumni network spans continents and industries, providing current members with invaluable connections and opportunities for their future careers.
+:::
+:::
+
+## Leadership Team
+
+Our society is led by a dedicated team of students committed to serving the Colombian community at Cambridge:
+
+- **President**: Leading overall strategy and external relations
+- **Vice President**: Supporting operations and member engagement
+- **Treasurer**: Managing finances and sponsorship relationships
+- **Social Secretary**: Organizing events and cultural activities
+- **Academic Officer**: Coordinating study support and academic events
+- **Communications Officer**: Managing our digital presence and outreach
+
+[Meet Our Current Committee](members.qmd){.btn .btn-primary}
+:::
+:::

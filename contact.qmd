@@ -1,0 +1,113 @@
+---
+title: "Contact CUCOL"
+---
+
+::: {.hero-section}
+::: {.container}
+# Get in Touch
+
+### Connect with the Cambridge University Colombian Society
+:::
+:::
+
+::: {.content-section}
+::: {.container}
+::: {.row}
+::: {.col-lg-8}
+## Contact Information
+
+### Email
+- **General Inquiries**: [contact@cucol.cam.ac.uk](mailto:contact@cucol.cam.ac.uk)
+- **Membership**: [membership@cucol.cam.ac.uk](mailto:membership@cucol.cam.ac.uk)
+- **Events**: [events@cucol.cam.ac.uk](mailto:events@cucol.cam.ac.uk)
+
+### Social Media
+- **Instagram**: [@cucol_cambridge](https://instagram.com/cucol_cambridge)
+- **Facebook**: [CUCOL Cambridge](https://facebook.com/cucolcambridge)
+
+### Location
+We're based at the University of Cambridge, with events taking place across various college venues and locations in Cambridge.
+
+### Office Hours
+Our committee members are available for meetings by appointment. Contact us to schedule a time that works for you.
+:::
+
+::: {.col-lg-4}
+## Contact Form
+
+::: {.contact-form}
+::: {.form-group}
+**Name**  
+[Your Name]{.form-control}
+:::
+
+::: {.form-group}
+**Email**  
+[your.email@example.com]{.form-control}
+:::
+
+::: {.form-group}
+**Subject**  
+[Inquiry Type]{.form-control}
+:::
+
+::: {.form-group}
+**Message**  
+[Your message here...]{.form-control .form-control-lg}
+:::
+
+[Send Message]{.btn .btn-primary .w-100}
+:::
+:::
+:::
+
+<div class="flag-accent"></div>
+
+## Frequently Asked Questions
+
+::: {.row}
+::: {.col-md-6}
+### How can I join CUCOL?
+Simply attend one of our events or contact us through any of the channels above. We welcome everyone interested in Colombian culture!
+
+### Do I need to be Colombian to join?
+No! While many of our members are Colombian or have Colombian heritage, we welcome anyone interested in Colombian culture and community.
+:::
+
+::: {.col-md-6}
+### How much does membership cost?
+Student membership is £5 per academic year. Alumni can join for free, and professionals pay £10 per year.
+
+### When do you meet?
+We hold regular events throughout the academic year. Check our [News & Events](news.qmd) page for upcoming activities.
+:::
+:::
+
+### Can I volunteer or help organize events?
+Absolutely! We're always looking for volunteers and committee members. Contact us to learn about opportunities.
+
+## Committee Contact
+
+::: {.member-grid}
+::: {.member-card}
+### President
+**Email**: [president@cucol.cam.ac.uk](mailto:president@cucol.cam.ac.uk)
+:::
+
+::: {.member-card}
+### Vice President
+**Email**: [vicepresident@cucol.cam.ac.uk](mailto:vicepresident@cucol.cam.ac.uk)
+:::
+
+::: {.member-card}
+### Secretary
+**Email**: [secretary@cucol.cam.ac.uk](mailto:secretary@cucol.cam.ac.uk)
+:::
+
+::: {.member-card}
+### Events Officer
+**Email**: [events@cucol.cam.ac.uk](mailto:events@cucol.cam.ac.uk)
+:::
+:::
+:::
+:::

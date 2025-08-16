@@ -1,0 +1,52 @@
+---
+title: "News & Events"
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  categories: true
+  sort-ui: true
+  filter-ui: true
+  page-size: 6
+  feed: true
+---
+
+::: {.hero-section}
+::: {.container}
+# News & Events
+
+### Stay Connected with CUCOL Activities
+:::
+:::
+
+::: {.content-section}
+::: {.container}
+## Latest Updates
+
+<!-- Content will be automatically generated from posts directory using Quarto listing -->
+<!-- Posts should be placed in a 'posts' directory with individual .qmd files -->
+<!-- Each post should have YAML frontmatter with title, date, categories, etc. -->
+
+### How to Stay Updated
+
+- **Subscribe to our newsletter**: Get monthly updates delivered to your inbox
+- **Follow our social media**: Real-time updates on Instagram and Facebook  
+- **Join our WhatsApp group**: Members-only group for instant notifications
+- **Attend our events**: Check the calendar below for upcoming activities
+
+### Event Calendar
+
+Subscribe to our Google Calendar to never miss an event:
+
+[Subscribe to Calendar](mailto:events@cucol.cam.ac.uk){.btn .btn-primary .me-3}
+[Suggest an Event](mailto:events@cucol.cam.ac.uk){.btn .btn-outline-primary}
+
+### Social Media
+
+Follow us for behind-the-scenes content and real-time updates:
+
+- **Instagram**: [@cucol_cambridge](https://instagram.com/cucol_cambridge)
+- **Facebook**: [CUCOL Cambridge](https://facebook.com/cucolcambridge)
+- **Email**: [contact@cucol.cam.ac.uk](mailto:contact@cucol.cam.ac.uk)
+:::
+:::

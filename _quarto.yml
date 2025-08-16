@@ -1,0 +1,57 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "CUCOL - Cambridge University Colombian Society"
+  description: "Official website of the Cambridge University Colombian Society"
+  favicon: images/cucol-logo.png
+  
+  navbar:
+    logo: images/cucol-logo.png
+    logo-alt: "CUCOL Logo"
+    title: false
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "About Us"
+        href: about.qmd
+      - text: "Members"
+        href: members.qmd
+      - text: "News"
+        href: news.qmd
+    right:
+      - icon: instagram
+        href: https://instagram.com/cucol_cambridge
+      - icon: facebook
+        href: https://facebook.com/cucolcambridge
+      - icon: envelope
+        href: mailto:contact@cucol.cam.ac.uk
+
+  page-footer:
+    left: |
+      © 2024 Cambridge University Colombian Society (CUCOL)
+    center: |
+      Connecting Colombian culture with Cambridge excellence
+    right: |
+      [Instagram](https://instagram.com/cucol_cambridge) | [Facebook](https://facebook.com/cucolcambridge) | [Email](mailto:contact@cucol.cam.ac.uk)
+
+format:
+  html:
+    theme: 
+      - cosmo
+      - custom.scss
+    css: styles.css
+    toc: false
+    page-layout: full
+    grid:
+      sidebar-width: 0px
+      body-width: 1200px
+      margin-width: 100px
+    include-in-header: header.html
+    lang: en
+
+execute:
+  echo: true
+  warning: false
+  error: false
